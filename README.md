@@ -85,5 +85,5 @@ To run this project, you'll need the following:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/car-data-analysis.git
+   git clone https://github.com/najeeb-ur-rahaman/Car_Data_Analysis.git
    ```
